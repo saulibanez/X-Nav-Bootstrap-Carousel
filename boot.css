@@ -16,7 +16,7 @@
 }
 
 .navbar .container .callepse .nav .menu a {
-    color: black;
+    color: blue;
 }
 
 @import url(http://fonts.googleapis.com/css?family=Roboto);
@@ -180,7 +180,11 @@
 }
 
 .post .contenedor-botones {
-    width: 100;
+    width: 100%;
+}
+
+.carousel .carousel-inner .item img {
+    width: 100%;
 }
 
 /* Media querie*/
